@@ -1,0 +1,192 @@
+.Events_leftsection{
+    width: 325px; 
+    float: left; 
+     margin-top: 10px;
+    margin-right: 30px;
+    
+    padding-top: 20px;
+    padding-left: 30px; 
+ padding-bottom: 20px; 
+}
+.Events_leftsection h2{
+    color: #161515; 
+    font-size: 30px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+    font-weight:500;  
+}
+.imgeventssection{
+  
+}
+.imgeventssection p{
+    padding-top: 5px;  
+    font-size: 15px; 
+    color: #302c2c;
+    font-family: sans-serif  
+}
+.imgeventssection img{
+  height: 110px;
+    width: 100px; 
+    float: left;
+   margin-right: 20px;
+   margin-bottom: 25px;
+   border:1px solid rgb(241, 210, 210); 
+     border-radius: 10px; 
+}
+.imgeventssection a{
+    float: left;
+    
+    color: red;
+    font-size: 14px; 
+    padding:4px 7px; 
+    margin-top: 4px;
+}
+.imgeventssection a:hover{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.imgeventssection h5{
+      
+    font-size: 14px; 
+    color: #302c2c; 
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 15px; 
+}
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+.Events_middelsection{
+    width: 285px; 
+    float: left; 
+     
+    margin-right: 30px; 
+}
+.imageventsmiddelsection1 h2{
+    padding-top: 30px; 
+    font-size: 30px; 
+    padding-bottom: 20px;
+    color: #302c2c;
+    font-family: sans-serif;
+    font-weight:500;  
+    float: left;
+}
+.imageventsmiddelsection1 p{
+    padding-top: 5px;  
+    font-size: 15px; 
+    color: #302c2c;
+    font-family: sans-serif 
+}
+.imageventsmiddelsection1 img{
+    height: 100px;
+    width: 90px; 
+    float: left;
+   margin-right: 20px;
+   margin-bottom: 25px;
+   border:1px solid rgb(241, 210, 210); 
+     border-radius: 10px; 
+}
+.imageventsmiddelsection1 a{
+    float: left;
+    
+    color: red;
+    font-size: 14px; 
+    padding:4px 7px; 
+    margin-top: 4px;
+}
+.imageventsmiddelsection1 a:hover{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.imageventsmiddelsection1 h5{
+    font-size: 14px; 
+    color: #302c2c; 
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 15px; 
+}
+
+.imageventsmiddelsection2 h2{
+    padding-top: 50px; 
+    font-size: 30px; 
+ 
+    color: #302c2c;
+    font-family: sans-serif;
+    font-weight:500;  
+    float: left;
+    margin-left: -190px;
+   
+}
+.imageventsmiddelsection2 h2{
+     
+    font-size: 30px; 
+    
+    color: #302c2c;
+    font-family: sans-serif;
+    font-weight:500;  
+    float: left;
+    margin-bottom: 20px;
+}
+.imageventsmiddelsection2{
+    line-height: 25px;
+}
+
+
+
+
+
+.Events_rightsection{
+    width: 280px; 
+    float: left; 
+    padding-right: 20px;
+  
+}
+.Events_rightsection h2{
+    padding-top: 30px; 
+    font-size: 30px; 
+   
+    color: #302c2c;
+    font-family: sans-serif;
+    font-weight:500; 
+}
+.Events_rightsection p{
+    
+}
+.Events_rightsection img{
+    
+}
+.Events_rightsection a{
+    float: right;
+    
+    color: red;
+    font-size: 15px; 
+    padding:5px 10px; 
+    margin-top: 5px;  
+}
+.Events_rightsection a:hover{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.Events_rightsection h5{
+    padding-top: 20px;  
+    font-size: 14px; 
+    color: #302c2c; 
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
